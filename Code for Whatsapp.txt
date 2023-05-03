@@ -1,0 +1,12 @@
+This is Whats app code
+
+1. Author Kumara
+
+2. Profile page code
+
+3. Chat screen code
+
+4. Last seen code 
+
+5. Attachment (Image, file)
+ 
