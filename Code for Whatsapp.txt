@@ -11,3 +11,7 @@ This is Whats app code
 5. Attachment (Image, file)
  
 6. Hide my last seen
+
+7. Adding the audio call feature
+
+8. Adding the video call feature
