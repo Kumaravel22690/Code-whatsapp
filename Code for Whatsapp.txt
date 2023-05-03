@@ -10,3 +10,4 @@ This is Whats app code
 
 5. Attachment (Image, file)
  
+6. Hide my last seen
